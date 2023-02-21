@@ -231,7 +231,7 @@ dependencies:
       - tensorboard-data-server==0.6.1
       - tensorboard-plugin-wit==1.8.1
       - thop==0.1.1-2207130030
-      - torch==1.10.2
+      - torch>=1.13.1
       - torchmetrics==0.7.1
       - torchstat==0.0.7
       - tqdm==4.62.3
